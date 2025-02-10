@@ -10,8 +10,6 @@ A simple **Digital Clock** that displays **hours, minutes, and seconds** using *
 ## 📸 Screenshot  
 ![Digital Clock Preview](https://github.com/Nyjel-vinoy/Digital-clock/blob/5009ec3d693e4a4147c67a67cce8a5992649089d/screenshot.png)  
 
-## 🚀 Live Demo  
-Check out the live version: [Click Here](https://Nyjel-vinoy.github.io/digital-clock/)  
 
 ## 📌 Features  
 ✔ Displays real-time **hours, minutes, and seconds**  
